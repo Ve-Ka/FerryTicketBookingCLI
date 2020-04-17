@@ -1,0 +1,33 @@
+************************************************************
+Name:					Test_One
+Ferry ID:				001
+Destination:			Penang to Langkawi
+Departure time:			10:00
+Ticket class:			Business
+Seat Number:			1
+Date purchase:			17 Jan 2020
+Time purchase:			09:02:47
+************************************************************
+
+************************************************************
+Name:					Test_Two
+Ferry ID:				012
+Destination:			Langkawi to Penang
+Departure time:			13:00
+Ticket class:			Economy
+Seat Number:			1
+Date purchase:			17 Jan 2020
+Time purchase:			09:03:22
+************************************************************
+
+************************************************************
+Name:					Test_Four
+Ferry ID:				001
+Destination:			Penang to Langkawi
+Departure time:			10:00
+Ticket class:			Business
+Seat Number:			2
+Date purchase:			20 Jan 2020
+Time purchase:			21:42:16
+************************************************************
+
